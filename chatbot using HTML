@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chatbot</title>
+</head>
+<body>
+  <h1>Chatbot</h1>
+  <input id="user-input" type="text" placeholder="Type a message">
+  <button id="send-btn">Send</button>
+  <div id="conversation-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
